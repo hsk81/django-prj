@@ -21,6 +21,6 @@ you need to get rid of your virtual enviroment then execute
 After cloning this repository and executing `./setup.sh $PRJNAME` the `origin`
 remote of the git repository should be removed with
 
-    git remote rm origi`
+    git remote rm origin
 
 and probably replaced with a URL of your own liking.
