@@ -2,7 +2,8 @@ flask-prj
 =========
 
 Sets a basic development environment for [flask](http://flask.pocoo.org) up
-using [virtualenv](virtualenv.org). After cloning the repository just execute
+using [virtualenv](http://virtualenv.org). After cloning the repository just
+execute
 
     ./setup.sh $PRJNAME
 
