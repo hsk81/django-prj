@@ -1,4 +1,4 @@
-flask-env
+flask-prj
 =========
 
 Sets a basic development environment for [flask](http://flask.pocoo.org) up
@@ -6,7 +6,7 @@ using [virtualenv](virtualenv.org). After cloning the repository just execute
 
     `./setup.sh $PRJNAME`
 
-where $PJRNAME should be the name of your project. The `pipit` function inside
+where $PRJNAME should be the name of your project. The `pipit` function inside
 `setup.sh` should be extended with the dependencies you require. If you need to
 update your dependencies then execute
 
