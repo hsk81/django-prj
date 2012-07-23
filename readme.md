@@ -1,7 +1,7 @@
-flask-prj
-=========
+django-prj
+==========
 
-Sets a basic development environment for [flask](http://flask.pocoo.org) up
+Sets a basic development environment for [django](http://djangoproject.com) up
 using [virtualenv](http://virtualenv.org). After cloning the repository just
 execute
 
